@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cGjX6ZQ2YslXg+KzIa3e7cdJ9ECIftyRYSXXYc1AmbIcX3Gs2T9DmGfUT0+dAP8+C6RcZmof+flHUOIi5wvokA==",
+  "success": true,
+  "projectFilePath": "D:\\newrelic\\webapp\\webapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
